@@ -63,4 +63,5 @@ This project was built to practice core Java concepts from my first semester:
 
 I'm a Computer Science student at Goethe University Frankfurt, currently learning Java through the [Udemy Java Masterclass](https://www.udemy.com/course/java-the-complete-java-developer-course/) and university courses. This is one of my first independent projects.
 
-📫 [therezayiii@gmail.com](mailto:therezayiii@gmail.com) · [LinkedIn](https://www.linkedin.com/in/ali-rezaei-jaghanab)
+✉️ therezayiii@gmail.com
+💼 LinkedIn:https://www.linkedin.com/in/ali-rezaei-jaghanab
